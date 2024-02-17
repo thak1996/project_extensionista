@@ -2,9 +2,7 @@
 
 ## Descrição
 
-Este aplicativo, desenvolvido em Python, oferece uma interface de terminal para conhecimento sobre o novo sistema utilizado para a  
-comunicação entre escolas e famílias. Ele permite que usuários acessem informações importantes 
-como presença, notas e comunicados escolares diretamente pelo terminal, oferecendo uma solução 
+Este aplicativo, desenvolvido em Python, oferece uma interface de terminal para conhecimento sobre o novo sistema utilizado para a comunicação entre escolas e famílias. Ele permite que usuários acessem informações importantes como presença, notas e comunicados escolares diretamente pelo terminal, oferecendo uma solução 
 prática e acessível para melhorar a transparência educacional.
 
 ## Funcionalidades
